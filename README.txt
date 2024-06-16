@@ -1,11 +1,11 @@
 The application can be used to read a US license plate and determine the plate number using an OCR.
 The image needs to be a jpg, and the license plate needs to be the focus of the image.
 
-"Functions" contains helper functions for the app to run.
-"OCRModel" contains the trained model named "newBinarized.traineddata".
-"Test Plates" has both successful and unsuccessful examples of license plates to be read.
-
 "main.mlapp" is the application that can be used to find plate numbers.
+
+"Functions/" contains helper functions for the app to run.
+"OCRModel/" contains the trained model named "newBinarized.traineddata".
+"Test Plates/" has both successful and unsuccessful examples of license plates to be read.
 
 
 MATLAB add-ons:
